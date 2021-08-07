@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="sEGNS3sx_ChaHR2Ex1l1" name="第 1 页">
-        <mxGraphModel dx="607" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="522" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -49,9 +49,9 @@
                 <mxCell id="25" value="消息服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="180" y="440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="2" target="2" edge="1">
+                <mxCell id="26" value="" style="endArrow=none;html=1;entryX=0.999;entryY=0.56;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" parent="1" target="2" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="400" y="490" as="sourcePoint"/>
+                        <mxPoint x="70" y="428" as="sourcePoint"/>
                         <mxPoint x="450" y="440" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
@@ -60,6 +60,18 @@
                 </mxCell>
                 <mxCell id="51" value="后台管理平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="380" y="100" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="基础服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="680" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="业务服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="490" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="核心服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="405" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="路由网关层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="285" width="70" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
